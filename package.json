@@ -1,0 +1,24 @@
+{
+  "name": "assigment-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aboutus.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/seethersan/bootstrap4-assigment.git"
+  },
+  "author": "seethersan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seethersan/bootstrap4-assigment/issues"
+  },
+  "homepage": "https://github.com/seethersan/bootstrap4-assigment#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
